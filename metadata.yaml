@@ -1,0 +1,47 @@
+_repo: The-journal-of-Elizabeth-Lady-Holland-1791-1811-Volume-2-of-2_73280
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holland, Elizabeth Vassall Fox, Lady
+    aliases:
+    - Fox, Elizabeth Vassall, Lady Holland
+    - Vassall Fox, Elizabeth, Lady Holland
+    - Holland Lady
+    birthdate: 1770
+    deathdate: 1845
+    gutenberg_agent_id: '56992'
+    url: http://www.gutenberg.org/2009/agents/56992
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Fox,_Baroness_Holland
+  editor:
+    agent_name: Ilchester, Giles Stephen Holland Fox-Strangways, Earl of
+    aliases:
+    - Earl of Ilchester
+    - Fox-Strangways, Giles Stephen Holland, Earl of Ilchester
+    birthdate: 1874
+    deathdate: 1959
+    gutenberg_agent_id: '56993'
+    url: http://www.gutenberg.org/2009/agents/56993
+    wikipedia: https://en.wikipedia.org/wiki/Giles_Fox-Strangways,_6th_Earl_of_Ilchester
+description: ''
+gutenberg_issued: '2024-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73280'
+language: en
+pgterms:marc904: https://archive.org/details/journalofelizabe0001holl https://archive.org/details/journalofelizabe0002holl
+pgterms:marc905: 20210718002938holland
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: MWS, Karin Spence and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bLongmans, Green, and Co., $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holland, Elizabeth Vassall Fox, Lady, 1770-1845 -- Diaries'
+- !lcc 'DA'
+- GITenberg
+title: The journal of Elizabeth Lady Holland (1791-1811) Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/73280
