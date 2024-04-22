@@ -1,5 +1,8 @@
 _repo: The-journal-of-Elizabeth-Lady-Holland-1791-1811-Volume-2-of-2_73280
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73280-h/images/cover.jpg
 creator:
   author:
     agent_name: Holland, Elizabeth Vassall Fox, Lady
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56993
     wikipedia: https://en.wikipedia.org/wiki/Giles_Fox-Strangways,_6th_Earl_of_Ilchester
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73280#The-journal-of-Elizabeth-Lady-Holland-1791-1811-Volume-2-of-2
 gutenberg_issued: '2024-03-28'
 gutenberg_type: Text
 identifiers:
